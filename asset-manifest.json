@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mind-game/static/css/main.f10146df.css",
+    "main.js": "/mind-game/static/js/main.4a01cc19.js",
+    "static/js/787.d6e96247.chunk.js": "/mind-game/static/js/787.d6e96247.chunk.js",
+    "index.html": "/mind-game/index.html",
+    "main.f10146df.css.map": "/mind-game/static/css/main.f10146df.css.map",
+    "main.4a01cc19.js.map": "/mind-game/static/js/main.4a01cc19.js.map",
+    "787.d6e96247.chunk.js.map": "/mind-game/static/js/787.d6e96247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f10146df.css",
+    "static/js/main.4a01cc19.js"
+  ]
+}
